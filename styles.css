@@ -36,3 +36,15 @@ input {
 img {
 	max-width: 300px;
 }
+
+.button {
+	background-color: yellow;
+	height: 100px;
+	width: 150px;
+}
+
+#contact-info {
+	background-color: pink;
+	height: 100px;
+	width: 458px;
+}
